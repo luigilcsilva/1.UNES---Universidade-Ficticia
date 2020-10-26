@@ -8,6 +8,8 @@
 
 *Para vê-lo funcionando, basta acessar a página index.html em um navegador. O código fonte pode ser aberto em um editor de código de sua preferência.*
 
+![This is the Website for fictitious university UNES.](https://github.com/luigilcsilva/Primeiro-Projeto-HTML---UNES/blob/main/gifunes.gif)
+
 
 
 
