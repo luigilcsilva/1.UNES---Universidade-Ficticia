@@ -1,6 +1,6 @@
 # UNES---Universidade-Ficticia
 
-**This is my first project, it was built in pure HTML. It was made from guidelines of the course "Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos", teachers Jorge Sant Ana and Jamilton Damasceno. It is a website for a fictitious university.**
+**This is my first project; it was built in pure HTML. It was made from guidelines of the course "Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos", teachers Jorge Sant Ana and Jamilton Damasceno. It is a website for a fictitious university.**
 
 **To see it working, just access the page index.html in any browser. The source code can be viewed in a source code editor of your preference.** 
 
